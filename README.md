@@ -17,7 +17,7 @@ Data engineer at IBM. Retired U.S. Army Major. I build things at work and on my 
 
 I design and build data pipelines, analytics platforms, and full-stack applications. Rust by default, Python when it makes sense, PostgreSQL underneath. Everything I ship has tests, documentation, and architecture that the next person can pick up cold.
 
-At IBM, I build ETL/ELT pipelines and dimensional data models for a Department of Veterans Affairs program. Before that, 18 years as an Army officer turning messy operational data into decisions — the job title changed, the work didn't.
+At IBM, I build ETL/ELT pipelines and dimensional data models for a Department of Veterans Affairs program. Before that, 18 years as an Army officer turning messy operational data into decisions. The job title changed, the work didn't.
 
 ---
 
@@ -58,11 +58,14 @@ At IBM, I build ETL/ELT pipelines and dimensional data models for a Department o
 
 | Project | What It Is | Stack |
 | :--- | :--- | :--- |
-| **[nexus](https://github.com/lukeudell/nexus)** | Multi-vendor AI chat platform — Claude, GPT, and Gemini in one interface. Group conversations, AI personas, 5 turn modes, field-level encryption. Overview repo linking 9 independent crates. | Rust, Axum, Astro, React, Keycloak, Redis, PostgreSQL |
+| **[udell-blueprints](https://github.com/lukeudell/udell-blueprints)** | My engineering standards and project scaffolding as a usable kit: an 18-section standards doc with citable rule IDs, working skeletons for 11 stacks, risk-tiered audit checklists, and first-class AI agent instructions. The operating manual behind everything else on this page. MIT licensed. | Rust, Python, TypeScript, Java, Go, dbt |
+| **[nexus](https://github.com/lukeudell/nexus)** | Multi-vendor AI chat platform with Claude, GPT, and Gemini in one interface. Group conversations, AI personas, 5 turn modes, field-level encryption. Overview repo linking 9 independent crates. | Rust, Axum, Astro, React, Keycloak, Redis, PostgreSQL |
 | **[resume-forge](https://github.com/lukeudell/resume-forge)** | Privacy-first resume generator. Career data vault, AI-assisted tailoring, hexagonal architecture, dual storage backends. Your PII never leaves your machine. | Rust, Axum, React, Typst, PostgreSQL |
-| **[signal-lens](https://github.com/lukeudell/signal-lens)** | Interactive Signal Protocol simulator — real X3DH and Double Ratchet with real cryptographic operations. No mocked values. Crypto-agile for post-quantum expansion. | TypeScript, FastAPI, React |
+| **[signal-lens](https://github.com/lukeudell/signal-lens)** | Interactive Signal Protocol simulator: real X3DH and Double Ratchet with real cryptographic operations. No mocked values. Crypto-agile for post-quantum expansion. | TypeScript, FastAPI, React |
 
-### Private Projects (available on request)
+### Private Work
+
+Most of what I build stays private: production systems serving real users, and projects built with commercial intent. The public repos above show *how* I work; they're not an inventory of *what* I've built. Highlights below; deeper access available on request.
 
 | Project | What It Is |
 | :--- | :--- |
