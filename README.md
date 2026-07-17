@@ -69,7 +69,7 @@ Most of what I build stays private: production systems serving real users, and p
 
 | Project | What It Is |
 | :--- | :--- |
-| **Stand Up Lockport** | Production civic advocacy platform for a non-partisan local organization. Rust/Axum API, 10-role RBAC, tamper-proof audit DB, 940+ tests. In production, serving real users. |
+| **Civic Advocacy Platform** | Production platform for a non-partisan advocacy organization. Rust/Axum API, 10-role RBAC, tamper-proof audit DB, 940+ tests. In production, serving real users. |
 | **CivicLens** | Civic transparency platform exposing local government data. Two-tier Rust architecture with reusable Sentinel crate ecosystem. In active development. |
 | **lukeudell.com** | Portfolio site with 4 production analytics projects (dbt Core, PostgreSQL, Metabase, Streamlit). 54 dbt models, 900+ automated tests, 14 Docker services. |
 
